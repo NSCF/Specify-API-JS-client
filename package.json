@@ -1,0 +1,17 @@
+{
+  "name": "specifyapi",
+  "version": "1.0.0",
+  "description": "Interface for interacting with the Specify 7 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Engelbrecht",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "clipboardy": "^2.3.0"
+  }
+}
