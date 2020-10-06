@@ -10,4 +10,4 @@ This client currently contains three files:
 
 - specifyLogin.js, which gets the login cookies
 - getTaxon.js, which generates a function that can then be used to fetch records from the taxon table. At present this only works on fetching by taxon name, but use this file as a model for generating more complex query functions. Remember to attach a logout function!
-- index.js, which is a demo of how to use the generated function to fetch a taxon record and print the authority to screen. 
+- index.js, which is a demo of how to use the generated function to fetch a taxon record, print the authority to screen, and log out. 
